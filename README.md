@@ -1,5 +1,5 @@
 # Adobe GenSolve Hackathon Submission
-## Team Name: Snorlox
+## Team Name: Snorlax
 ## Team Members:
 - Debjyoti Ray
 - Bhupesh Dewangan
@@ -12,6 +12,10 @@ Welcome to my submission for the Adobe GenSolve Hackathon! This project tackles 
 The objective of this project is to identify, regularize, and beautify curves in 2D Euclidean space. We start by focusing on closed curves and progressively work with more complex shapes. This project also covers symmetry and curve completion techniques.
 
 ### Tasks Breakdown
+
+1. **Exploratory Data Analysis**
+   - Performed EDA analysis over the data.
+   - Plotted the image and the graphs to analyse and looked for possible techniques.
 
 1. **Regularize Curves**
    - **Objective:** Identify regular shapes (e.g., straight lines, circles, ellipses, rectangles, and polygons) from a given set of curves.
