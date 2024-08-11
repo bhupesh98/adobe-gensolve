@@ -65,6 +65,8 @@ The notebook also includes code to detect symmetry in closed shapes.
 
 ### Complete Incomplete Curves
 Refer to `Adobe-GenSolve-docs.pdf` for the methodology and code snippets used for this task.
+- Run `python3 partialconv/predict.py` for the impainting task.
+- Run `python3 partialconv/occulusion.py` for the occulusion task.
 
 ## Results
 
@@ -73,10 +75,6 @@ The expected results for the tasks are as follows:
 1. **Regularized Curves**: Curves identified and regularized based on the geometric shapes they resemble.
 2. **Symmetry in Curves**: Symmetry detected in closed curves, with corresponding Bezier curves fitted.
 3. **Completed Curves**: Incomplete curves filled and smoothed to restore the original shape.
-
-## Contributing
-
-Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
 
 ## License
 
