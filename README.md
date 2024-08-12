@@ -80,6 +80,32 @@ The expected results for the tasks are as follows:
 2. **Symmetry in Curves**: Symmetry detected in closed curves, with corresponding Bezier curves fitted.
 3. **Completed Curves**: Incomplete curves filled and smoothed to restore the original shape.
 
+## Input & Output Images:
+
+### Frag0
+**Input**
+![Input: frag0_sol.svg](./problems/frag0.svg)
+**Output**
+![Output: frag0_sol.png](./solutions/frag0_sol.png)
+
+### Frag1
+**Input**
+![Input: frag1.svg](./problems/frag1.svg)
+**Output**
+![Output: frag1_sol.png](./solutions/frag1_sol.png)
+
+### Frag2
+**Input**
+![Input: frag2.svg](./problems/frag2.svg)
+**Output**
+![Output: frag2_sol.png](./solutions/frag2_sol.png)
+
+### Isolated
+**Input**
+![Input: isolate.svg](./problems/isolated.svg)
+**Output**
+![Output: isolated_sol.png](./solutions/isolated_sol.png)
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
